@@ -1,4 +1,14 @@
 ###################
+Informasi
+###################
+
+Indonesia
+Website toko kelontong sederhana. dibuat dengan Bahasa PHP, dan dari CodeIgniter 3, terima kasih
+
+English
+Simple grocery store website. made with PHP, and from CodeIgniter 3, thank you
+
+###################
 What is CodeIgniter
 ###################
 
